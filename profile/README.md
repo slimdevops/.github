@@ -1,7 +1,7 @@
 # Slim.AI: Build secure containers faster. 
-Hi, we're Slim.AI and we're on a mission to help software companies secure their containers for production through automation. 
+Hi, we're Slim.AI and we're on a mission to help software companies secure their containers through automation. 
 
-We're doing that by building a platform that automatically removes unnecessary software from your containers, reducing your attack surface and leaving you with fewer vulernabilities to manage. 
+We're building a platform that automatically removes unnecessary software from your containers, reducing your attack surface and leaving you with fewer vulernabilities to manage. 
 
 In this repository, you'll find various examples, tutorials, Starter Kits, and community images that leverage the Slim platform to create secure, production-ready containers with less manual effort. 
 
